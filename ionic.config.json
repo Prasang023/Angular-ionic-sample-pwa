@@ -1,0 +1,7 @@
+{
+  "name": "pwasample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
